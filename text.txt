@@ -1,3 +1,0 @@
-Task: Add dark mode toggle with persistence
-Source: https://github.com/lexgerald/wdd330/blob/main/index.html
-Site: https://lexgerald.github.io/wdd330/
